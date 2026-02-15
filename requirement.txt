@@ -6,4 +6,3 @@ pdfminer.six==20221105
 uvicorn==0.18.2
 fastapi==0.90.0
 pydantic==1.10.2
-
